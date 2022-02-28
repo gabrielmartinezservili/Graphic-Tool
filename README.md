@@ -2,8 +2,7 @@
 # Master thesis :
 Pour les Français ça se passe ici : https://github.com/gabrielmartinezservili/Objet-Memoire
 
-Here is the GitHub page in English, dedicated to my master thesis. Unfortunately I can't use the same semantics as in French. It is composed in two parts, an object and a writing. Both are complementary, I invite you to go to the following web page to read the writing:  
-https://gabrielmartinezservili.github.io/objet-ecrit/
+Here is the GitHub page in English, dedicated to my master thesis. Unfortunately I can't use the same semantics as in French. It is composed in two parts, an object and a writing. Both are complementary, I invite you to go to the following web page to read the writing: https://gabrielmartinezservili.github.io/objet-ecrit/
 
  Although it's in French you can translate it via the "*Google translate*" extension.
  
