@@ -4,11 +4,16 @@
 
 **EN:** *This object is a manifest graphic tool designed to be manufactured using 3D printing.  It is an attempt to revalue our interactions with the world of technical objects. With the aim of bringing about an engagement between the individual, the tool and its functioning. It has been designed so that anyone can make it their own. It is modular and open, its design is totally transparent.*
 
-### Why i make it ? </br>
+
+## Why i make it ? </br>
 
 **FR:** Lors de mon cursus en école d’Art, j’ai été interpellé par le fait que nous utilisions des objets de production graphique, comme les stylos ou les systèmes d’impression, sans réelle conscience de leur fonctionnement et des phénomènes physiques qu’ils impliquent. Bien qu’il existe une large palette d’outils graphiques, nous faisons nos choix en fonction d’un effet souhaité qui implique l’usage d’un objet précis. L’exploration des possibles est réduite à la portion congrue, nous attendons simplement qu’ils fonctionnent ainsi que nous l’entendons, au travers d’interactions dépourvues de sens et réduites à leur minimum. C’est ainsi qu’en ne nous posant plus la question de leur fonctionnement, nous avons perdu l’intuition du geste.<br>
 
 Cet outil propose une exploration de la richesse des opérations possibles avec ses mains et l’acquisition d’une maîtrise gestuelle pour produire des expressions graphiques nuancées et accessibles à tous. À partir d’une pratique empirique, je souhaite stimuler l’auto-apprentissage et une forme de jeu graphique qui mélange intuition et spontanéité. Au travers du jeu avec les pièces qui le constituent et la matière (l’encre) qu’il manipule, cet objet graphique donne l’occasion d’explorer de nouveaux procédés. Sa structure composée de diverses parties nous permet de comprendre l’organisation interne de son fonctionnement, puis offre la possibilité de le moduler avec différentes pointes qui influencent l’écoulement de l’encre et son dépôt sur le support. 
+
+Vous trouverez dans les différents dossiers, **[Les fichiers 3D](https://github.com/gabrielmartinezservili/Graphic-Tool/tree/main/Graphic%20tool/3D%20files%20%28STL%29)** avec des exemples de paramétrage, **[la notice](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Notice.pdf)** et des **[tutoriels vidéo](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Tutorials%20%28Video%29.md)**.
+
+---
 
 **EN:** *During my art school studies, I was challenged by the fact that we use graphic production objects, such as pens or printing systems, without any real awareness of their functioning and the physical phenomena they imply. Although there is a wide range of graphic tools available, we make our choices according to a desired effect that implies the use of a specific object. The exploration of possibilities is reduced to a minimum, we simply expect them to work the way we want them to, through meaningless and minimal interactions. Thus, by no longer asking ourselves how they work, we have lost the intuition of the gesture.*
 
