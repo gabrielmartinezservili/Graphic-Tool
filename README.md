@@ -17,7 +17,7 @@ Vous trouverez dans les différents dossiers, **[Les fichiers 3D](https://github
 
 
 
-You will find in the different folders, **[the 3D files](https://github.com/gabrielmartinezservili/Graphic-Tool/tree/main/Graphic%20tool/3D%20files%20%28STL%29)** with examples of settings, **[the instructions](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Notice.pdf)** and **[tutorials videos](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Tutorials%20%28Video%29.md)**.
+You will find in the different folders, **[the 3D files](https://github.com/gabrielmartinezservili/Graphic-Tool/tree/main/Graphic%20tool/3D%20files%20%28STL%29)** with examples of settings, **[the instructions]([https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Notice.pdf](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Notice_EN.pdf))** and **[tutorials videos](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Tutorials%20%28Video%29.md)**.
 
 My instagram&#8201;: https://www.instagram.com/gabrielmartinez.ser/
 
