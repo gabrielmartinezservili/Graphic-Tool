@@ -4,7 +4,8 @@
 
 **EN&#8201;:** *This object is a manifest graphic tool designed to be manufactured using 3D printing.  It is an attempt to revalue our interactions with the world of technical objects. With the aim of bringing about an engagement between the individual, the tool and its functioning. It has been designed so that anyone can make it their own. It is modular and open, its design is totally transparent.*
 
-![P1070351](https://user-images.githubusercontent.com/71280824/191265395-27392bd7-d41f-44ba-8f35-df3f0704b7c7.jpg)
+![P1070599](https://user-images.githubusercontent.com/71280824/191377503-42b37f42-ccc5-4a7c-ac78-2bc9db889c24.jpg)
+
 
 ## Why i make it ? </br>
 
@@ -45,8 +46,9 @@ I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/
 |Thin tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^2]
 |Bevelled tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^3]
 
-![P1070322](https://user-images.githubusercontent.com/71280824/191270207-7caf800d-a43b-4789-8db4-74d0956f8365.jpg)
 
+
+![P1070351](https://user-images.githubusercontent.com/71280824/191265395-27392bd7-d41f-44ba-8f35-df3f0704b7c7.jpg)
 
 
 
