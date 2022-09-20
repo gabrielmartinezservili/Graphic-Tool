@@ -38,10 +38,13 @@ I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/
 |Ball           |    *stainless steel*            |x
 |Thick tip   |   *TPE *(93A)**     |*layer height: 0.2mm*[^2]
 |Thin tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^2]
+|Bevelled tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^3]
 
 [^1]: The parameters of the 3MF files correspond to those of my printer, adjust them for your machine, otherwise it may damage it or even cause breakdowns.
 
 [^2]:  Be careful that the first layer does not completely merge the chosen patterns.
+
+[^3]: Don't need special parameters.
 
 
 
