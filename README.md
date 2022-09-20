@@ -40,6 +40,11 @@ I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/
 |Thin tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^2]
 |Bevelled tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^3]
 
+
+![P1070351](https://user-images.githubusercontent.com/71280824/191265395-27392bd7-d41f-44ba-8f35-df3f0704b7c7.jpg)
+![P1070361](https://user-images.githubusercontent.com/71280824/191266176-1dd1c930-5c5c-4255-8a93-9cda6e9ee8aa.jpg)
+
+
 [^1]: The parameters of the 3MF files correspond to those of my printer, adjust them for your machine, otherwise it may damage it or even cause breakdowns.
 
 [^2]:  Be careful that the first layer does not completely merge the chosen patterns.
