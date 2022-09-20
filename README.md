@@ -24,7 +24,7 @@ You will find in the different folders, **[the 3D files](https://github.com/gabr
 
 I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/) for slicing. It allows me to vary the patterns and perimeter settings in more detail by adding constraints to the STL file[^1]. 
 
-*See the PDF leaflet for more information.*
+*See the [PDF leaflet](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Notice_EN.pdf) for more information.*
 
 |Elements       |Material             | Print settings   |
 |----------------|-------------------|----------------
