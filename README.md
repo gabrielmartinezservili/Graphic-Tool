@@ -1,4 +1,4 @@
-# Graphic Tool v.1
+# Graphic Tool
 
 **FR&#8201;:** Cet objet est un outil graphique manifeste conçu pour être fabriqué par impression 3D.  Il s'agit d'une tentative de revalorisation de nos interactions avec le monde des objets techniques. Dans l'objectif de susciter un engagement entre l'individu, l'outil et son fonctionnement. Il a été conçu pour que chacun puisse se l'approprier. Il est modulaire et ouvert, sa conception est totalement transparente.
 
