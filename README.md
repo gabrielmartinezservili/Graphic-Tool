@@ -45,6 +45,7 @@ I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/
 |Thin tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^2]
 |Bevelled tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^3]
 
+![P1070322](https://user-images.githubusercontent.com/71280824/191270207-7caf800d-a43b-4789-8db4-74d0956f8365.jpg)
 
 
 
