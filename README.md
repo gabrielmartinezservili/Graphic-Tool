@@ -34,14 +34,17 @@ I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/
 
 |Elements       |Material             | Print settings   |
 |----------------|-------------------|----------------
-|  Seal         |  *TPE *(93A)**      |*layer height: 0.2mm*
+|Ball tip seal    |    *TPE *(93A)**    |*layer height: 0.2mm or 0.28*
+|Ball point |  *PLA*              | *layer height: 0.08 ou 0.16mm*
+|Ball           |    *stainless steel*            |x
 |Support seal   |   *PLA*             |*layer height: 0.2mm*
 |Crown       |   *PLA*             |*layer height: 0.08 ou 0.16mm*
-|Shutter      |   *TPE *(93A)**     |*layer height: 0.2mm*[^2]
-|Ball point |  *PLA*              | *layer height: 0.08 ou 0.16mm*
+|Shutters      |   *TPE *(93A)**     |*layer height: 0.2mm*[^2]
 |Cap         |    *PLA*            |*layer height: 0.08 ou 0.16mm*
+|Cap seal    |    *TPE *(93A)**    |*layer height: 0.2mm or 0.28*
 |Tank         |    *PLA*            |*layer height: 0.08 ou 0.16mm*
-|Ball           |    *stainless steel*            |x
+|TPE Tank |  *TPE *(93A)**             | *layer height: 0.08 ou 0.16mm*
+|Tank seal    |    *TPE *(93A)**    |*layer height: 0.2mm or 0.28*
 |Thick tip   |   *TPE *(93A)**     |*layer height: 0.2mm*[^2]
 |Thin tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^2]
 |Bevelled tip    |    *TPE *(93A)**    |*layer height: 0.2mm*[^3]
