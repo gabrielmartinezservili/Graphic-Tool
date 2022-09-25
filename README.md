@@ -28,7 +28,7 @@ You will find in the different folders, **[the 3D files](https://github.com/gabr
 
 # Technicals Informations
 
-I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/) for slicing. It allows me to vary the patterns and perimeter settings in more detail by adding constraints to the STL file. **The parameters of the 3MF files correspond to those of my printer, adjust them for your machine, otherwise it may damage it or even cause breakdowns.**
+I personally use [Prusa Slicer](https://www.prusa3d.com/fr/page/prusaslicer_424/) for slicing. It allows me to vary the patterns and perimeter settings in more detail by adding constraints to the STL file. But I use [CURA](https://ultimaker.com/fr/software/ultimaker-cura) with **printable overhang** option to slice the *Ball point*. The parameters of the 3MF files correspond to those of my printer, adjust them for your machine, otherwise it may damage it or even cause breakdowns.
 
 *See the [PDF leaflet](https://github.com/gabrielmartinezservili/Graphic-Tool/blob/main/Graphic%20tool/Instructions%20and%20Tutorials/Notice_EN.pdf) for more information.*
 
